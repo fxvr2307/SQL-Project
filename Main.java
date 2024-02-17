@@ -12,8 +12,8 @@ public class Main
         Scanner scanner = new Scanner(System.in);
 
         String url = "jdbc:mariadb://3.89.197.22/university";
-        String user = "admin";
-        String pass = "PSU1855";
+        String user = "";
+        String pass = "";
         Database db = new Database(url, user, pass);
 
         System.out.println("Welcome to my University SQLDataBase\n");
