@@ -1,3 +1,2 @@
 # SQL-Project
-A databse project using JAVA and SQL to simulate inscriptions/dropps of students as a register system in a University\n
-This projects includes the use of AWS to create a server to keep the data store
+A DataBase project using JAVA, AWS and SQL to simulate inscriptions/drops of students as a register system in a University
